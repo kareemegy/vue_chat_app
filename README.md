@@ -1,4 +1,4 @@
-# vuechatapp
+# vue / firebase Chat App
 
 ## Project setup
 ```
